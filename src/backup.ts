@@ -136,7 +136,11 @@ const dumpDatabase = async (path: string) => {
     },
     dumpToFile: path,
   });
+  
 
+  
+  
+  
   console.log("Database dumped successfully...");
 };
 
